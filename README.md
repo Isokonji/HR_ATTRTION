@@ -1,4 +1,4 @@
-# HR_ATTRTION
+# HR_ATTRITION
 SQL + Excel project analyzing employee attrition patterns through data queries and interactive dashboards.
 
 Employee Attrition Analysis
